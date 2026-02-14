@@ -1,11 +1,13 @@
 # Overview
 
 For this module I have chosen to learn about game framework and logic. I developed a snake grow game that will move continuously across the screen. The user will use the arrow keys to change the snake’s direction and collect items. Each item collected will cause the snake to grow and increase the score by one. The game will end if the snake touches any side of the screen or collides with its own body. There are also noise notifications with each item collected and an end of game tune.
+
 To play the game the user:
 Use the arrow keys to direct the snake around the screen.
 Try to collect the items that are randomly generated each time.
 Avoid running into the walls or colliding with its own body.
 The game ends when a collision is detected.
+
 By implementing this game, I learned game mechanics of sprite movements, collision detection, score tracking, sound effects, and managing the dynamically growing list of objects on the snake head. This project helped me learn how to use the software Arcade CodeMaker and to understand how systems update their states on timed intervals. This also helped me learn how the structures of interactive games and logic function.
 
 [Software Demo Video](https://www.youtube.com/watch?v=KCpRBBB3BXw)
